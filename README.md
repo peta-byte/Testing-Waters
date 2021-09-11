@@ -1,6 +1,6 @@
 # Testing Waters
 
-This is a simple app per Mr. Dawson's Getting Started course for React Native on Pluralsight. Some aspects have been adjusted. To use these files to run this app:
+This is a simple app per Reggie Dawson's Getting Started course for React Native on Pluralsight. Some aspects have been adjusted. To use these files to run this app:
 
 Ideally, go over the course but...you can:
 
