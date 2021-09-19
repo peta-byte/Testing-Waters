@@ -1,6 +1,14 @@
 # Testing Waters
 
-This is a simple app per Reggie Dawson's Getting Started course for React Native on Pluralsight. Some aspects have been adjusted. To use these files to run this app:
+This is a simple app per Reggie Dawson's Getting Started course for React Native on Pluralsight. Some aspects have been adjusted. 
+
+<p align="center">
+<img height="300" width="200" src="https://github.com/peta-byte/Testing-Waters/blob/master/testing%20waters.png?raw=true" />
+</p>
+
+🤦 *this is what happens when you get lazy about images*
+
+To use these files to run this app:
 
 Ideally, go over the course but...you can:
 
